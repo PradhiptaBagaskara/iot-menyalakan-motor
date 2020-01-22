@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50681190970",
+    "firebase_url": "https://nyala-montor.firebaseio.com",
+    "project_id": "nyala-montor",
+    "storage_bucket": "nyala-montor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50681190970:android:a407d5e66588940b1e7303",
+        "android_client_info": {
+          "package_name": "bon.ruvio.smartkeyvehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50681190970-pkif2g0m9p4jigab0oc2sdujal68vto8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bon.ruvio.smartkeyvehicle",
+            "certificate_hash": "c9e4af9ed391f066f122a24cbdbeb67f32f730f7"
+          }
+        },
+        {
+          "client_id": "50681190970-monfu9ap3a8a7qp9cbl6g0ioj5e123cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7g9Gfs--MhnE7gzFJoxnWGxWLVCn8lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50681190970-monfu9ap3a8a7qp9cbl6g0ioj5e123cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
